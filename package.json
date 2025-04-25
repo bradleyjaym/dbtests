@@ -1,0 +1,23 @@
+{
+  "name": "dbtests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyjaym/dbtests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyjaym/dbtests/issues"
+  },
+  "homepage": "https://github.com/bradleyjaym/dbtests#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "pg": "^8.15.5"
+  }
+}
